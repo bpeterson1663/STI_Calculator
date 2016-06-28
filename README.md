@@ -1,4 +1,7 @@
 # STI_Calculator
+This was a group project I worked on at Prime Digital Academy. The purpose of this was to understand the basic logic of calculating a short term incentive bonus for a set of employees while also learning to work together as a group. 
+
+##Directions
 Group based STI activity
 You are going to write a single JavaScript file to automatically calculate employee STI (‘short term incentive’ or ‘bonus’) for a company.
 
